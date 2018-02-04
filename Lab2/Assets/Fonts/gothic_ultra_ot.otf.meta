@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 823f14f9db8e0cc418edb401ab938004
+timeCreated: 1517243504
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gothic Ultra OT
+  fontNames:
+  - Gothic Ultra OT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
